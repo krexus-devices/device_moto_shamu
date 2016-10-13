@@ -356,10 +356,10 @@
 
     <!-- Does the notification LED support multiple colors?
          Used to decide if the user can change the colors -->
-    <bool name="config_multiColorNotificationLed">true</bool>
+    <!-- <bool name="config_multiColorNotificationLed">true</bool> -->
 
     <!-- Does the battery LED support multiple colors? Used to decide if the user can change the colors -->
-    <bool name="config_multiColorBatteryLed">true</bool>
+    <!-- <bool name="config_multiColorBatteryLed">true</bool> -->
 
     <!-- Default value for led color when battery is medium charged
          We set this to blue as low is red and charged is green -->
