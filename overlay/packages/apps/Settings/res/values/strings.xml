@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="krexus_about_maintainer_title">Nathan Chancellor</string>
+    <string name="krexus_about_maintainer_summary">The Flash - Catch me if you can!</string>
+    <string name="krexus_about_maintainer_url">https://plus.google.com/+NathanChancellor</string>
+</resources>
